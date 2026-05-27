@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi 👋, I'm Mitali Hariyale
 
-<!--
-**ssup-mitali/ssup-mitali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 MERN Stack Developer  
+✨ Passionate about creating responsive & modern web applications  
+🚀 Currently improving my frontend & backend skills
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌸 Tech Stack
+- HTML
+- CSS
+- Tailwind CSS
+- JavaScript
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+
+---
+
+## 🚀 Projects
+- Book My Turf
+- Portfolio Website
+- Resume Analyzer
+
+---
+
+## 🌱 Currently Learning
+- Advanced React
+- Backend Development
+- API Integration
+
+---
+
+## 📫 Connect With Me
+- GitHub: https://github.com/mitalistack
