@@ -36,8 +36,10 @@
 
 ---
 
-## 🌐 Connect With Me
+## 📈 Contribution Graph
 
-- LinkedIn
-- Portfolio
-- Email
+[![Mitali's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mitalistack&theme=react-dark)](https://github.com/Mitalistack)
+
+<p align="left">
+<a href="YOUR_LINKEDIN_LINK">LinkedIn</a>
+</p>
