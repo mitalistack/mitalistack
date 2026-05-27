@@ -26,13 +26,13 @@
 
 ## 📊 GitHub Stats
 
-![Mitali's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Mitali's GitHub stats](https://github-readme-stats.vercel.app/api?username=mitalistack&show_icons=true&theme=radical)
 
 ---
 
 ## 🔥 Streak Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=mitalistack&theme=radical)
 
 ---
 
