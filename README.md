@@ -40,6 +40,8 @@
 
 [![Mitali's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mitalistack&theme=react-dark)](https://github.com/Mitalistack)
 
+## 🌐 Connect With Me
+
 <p align="left">
 <a href="YOUR_LINKEDIN_LINK">LinkedIn</a>
 </p>
