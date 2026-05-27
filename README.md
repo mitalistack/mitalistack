@@ -1,36 +1,43 @@
-# Hi 👋, I'm Mitali Hariyale
+<h1 align="center">Hi 👋, I'm Mitali Hariyale</h1>
+<h3 align="center">MERN Stack Developer | Passionate Web Developer 🚀</h3>
 
-💻 MERN Stack Developer  
-✨ Passionate about creating responsive & modern web applications  
-🚀 Currently improving my frontend & backend skills
-
----
-
-## 🌸 Tech Stack
-- HTML
-- CSS
-- Tailwind CSS
-- JavaScript
-- React.js
-- Node.js
-- Express.js
-- MongoDB
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F700FF&width=500&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;Always+Learning+New+Things" />
+</p>
 
 ---
 
-## 🚀 Projects
-- Book My Turf
-- Portfolio Website
-- Resume Analyzer
+## 💫 About Me
+
+- 🌱 Currently learning **Advanced MERN Stack**
+- 💻 Love building modern web applications
+- 🎯 Goal: Become a successful Full Stack Developer
+- ⚡ Passionate about coding & UI design
 
 ---
 
-## 🌱 Currently Learning
-- Advanced React
-- Backend Development
-- API Integration
+## 🚀 Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,git,github,vscode" />
+</p>
 
 ---
 
-## 📫 Connect With Me
-- GitHub: https://github.com/mitalistack
+## 📊 GitHub Stats
+
+![Mitali's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+---
+
+## 🔥 Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical)
+
+---
+
+## 🌐 Connect With Me
+
+- LinkedIn
+- Portfolio
+- Email
