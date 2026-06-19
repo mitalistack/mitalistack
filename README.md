@@ -75,19 +75,22 @@ Full stack turf booking platform developed for managing sports turf reservations
 
 ---
 
-### Portfolio Website
+### Movie Finder 🎬
 
-Developer portfolio website for showcasing projects, technical skills, and development work.
+Built a responsive Movie Finder web application using HTML, Tailwind CSS, JavaScript, and OMDb API. Users can search for movies and view movie details through real-time API integration with a clean and intuitive interface.
 
 #### Features
-- Responsive Design
-- Modern UI
-- Project Showcase
+- Search movies by title
+- Real-time movie search using OMDb API
+- Dynamic display of search results
+- Responsive and user-friendly interface
+- Clean UI built with Tailwind CSS
 
 #### Tech Stack
-- HTML
+- HTML5
 - Tailwind CSS
 - JavaScript
+- OMDb API
 
 ---
 
