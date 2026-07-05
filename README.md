@@ -1,22 +1,25 @@
 <h1 align="left">Mitali Hariyale</h1>
 
 <p align="left">
-Full Stack Web Developer focused on building scalable and responsive web applications using the MERN Stack.
+Full Stack Web Developer focused on building scalable, responsive, and user-friendly web applications using the MERN Stack. I enjoy turning ideas into real-world products that solve practical problems and deliver smooth user experiences.
 </p>
 
 <p align="left">
-Interested in backend development, API integration, database management, and modern frontend architecture.
+I specialize in developing full-stack applications with clean architecture, efficient backend systems, and modern frontend interfaces. My work focuses on performance, scalability, and maintainability.
 </p>
 
 ---
 
 ## About Me
 
-- Full Stack Web Developer specializing in MERN Stack Development
-- Focused on clean UI implementation and scalable backend systems
-- Interested in REST APIs, authentication systems, and database management
-- Passionate about building real-world web applications
-- Continuously improving development and problem-solving skills
+- Full Stack Web Developer specializing in MERN Stack (MongoDB, Express.js, React.js, Node.js)
+- Strong focus on building responsive and interactive frontend interfaces using React.js
+- Experience in backend development including REST APIs, authentication, and server-side logic
+- Interested in database design and efficient data handling using MongoDB
+- Passionate about creating real-world projects with practical use cases
+- Focused on writing clean, modular, and scalable code
+- Continuously improving skills in system design, problem solving, and modern web development practices
+- Enthusiastic about learning new technologies and applying them in production-level projects
 
 ---
 
@@ -55,9 +58,27 @@ Interested in backend development, API integration, database management, and mod
 
 ---
 
-## Projects
+## 🚀 Featured Projects
 
-### Book My Turf
+### 📄 Resume Analyzer 
+
+A smart web application that analyzes resumes, calculates ATS score, and provides improvement suggestions.
+
+#### Features:
+- Resume upload & parsing
+- ATS score calculation
+- Keyword matching with job descriptions
+- Improvement suggestions
+
+#### Tech Stack 
+- React
+- Node.js
+- Express
+- MongoDB
+
+---
+
+### ⚽ Book My Turf
 
 Full stack turf booking platform developed for managing sports turf reservations and bookings.
 
