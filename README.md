@@ -94,12 +94,6 @@ Built a responsive Movie Finder web application using HTML, Tailwind CSS, JavaSc
 
 ---
 
-## GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mitalistack&show_icons=true&theme=github_dark)
-
----
-
 ## GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Mitalistack&theme=github-dark-blue)
@@ -114,17 +108,17 @@ Built a responsive Movie Finder web application using HTML, Tailwind CSS, JavaSc
 
 ## Education
 
-Bachelor of Technology (B.Tech)
-
-Computer Science Engineering
+<p align="left">Bachelor of Technology (B.Tech) - Computer Science & Engineering</p>
+<p align="left">📍 Swami Vivekanand Group of Institution</p>
+<p align="left">📅 2023 – 2027 </p>
+<p align="left">💡 Focus Areas: System Design basics, problem solving, backend architecture, API design, and building real-world full stack projects.</p>
 
 ---
 
 ## Certifications
 
 - MERN Stack Development
-- JavaScript Development
-- Responsive Web Design
+- C and C++ Programming
 
 ---
 
@@ -132,10 +126,5 @@ Computer Science Engineering
 
 - https://github.com/mitalistack
 - https://www.linkedin.com/in/mitali-hariyale/
-- Portfolio
 
 ---
-
-<p align="left">
-Open to collaboration, learning, and building impactful web applications.
-</p>
