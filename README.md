@@ -60,52 +60,17 @@ I specialize in developing full-stack applications with clean architecture, effi
 
 ## 🚀 Featured Projects
 
-### 📄 Resume Analyzer – AI-Powered ATS Optimization Tool 
+### Resume Analyzer – AI-Powered ATS Optimization Tool 
 
-An AI-powered Resume Analyzer that evaluates resumes, generates ATS scores, and provides smart improvement suggestions.
+An intelligent resume analysis web app that evaluates ATS score, matches job descriptions, and provides smart improvement suggestions to help users get hired faster.<br>
+**Stack**: React.js • Node.js • Express.js • MongoDB • Tailwind CSS • Framer Motion<br>
+**What it does**: Users can upload their resume, compare it with job descriptions, and receive a detailed breakdown including ATS score, keyword matches, missing skills, and writing quality improvements.
 
-#### Tech Stack 
-- React
-- Node.js
-- Express
-- MongoDB
+### Movie Finder – 
 
----
-
-### ⚽ Book My Turf
-
-Full stack turf booking platform developed for managing sports turf reservations and bookings.
-
-#### Features
-- User Authentication
-- Turf Booking System
-- Responsive Frontend
-- Booking Management
-
-#### Tech Stack
-- React.js
-- Node.js
-- Express.js
-- MongoDB
-
----
-
-### Movie Finder 🎬
-
-Built a responsive Movie Finder web application using HTML, Tailwind CSS, JavaScript, and OMDb API. Users can search for movies and view movie details through real-time API integration with a clean and intuitive interface.
-
-#### Features
-- Search movies by title
-- Real-time movie search using OMDb API
-- Dynamic display of search results
-- Responsive and user-friendly interface
-- Clean UI built with Tailwind CSS
-
-#### Tech Stack
-- HTML5
-- Tailwind CSS
-- JavaScript
-- OMDb API
+Built a responsive Movie Finder web application using HTML, Tailwind CSS, JavaScript, and OMDb API. Users can search for movies and view movie details through real-time API integration with a clean and intuitive interface.<br>
+**Stack**: HTML • Tailwind CSS • JavaScript • OMDb API<br>
+**What it does**: Users can search any movie and instantly get detailed insights like rating, genre, release year, cast, plot summary, and poster, all displayed in a clean and responsive UI for a smooth browsing experience.
 
 ---
 
