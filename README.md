@@ -130,8 +130,8 @@ Computer Science Engineering
 
 ## Connect
 
-- GitHub
-- LinkedIn
+- https://github.com/mitalistack
+- https://www.linkedin.com/in/mitali-hariyale/
 - Portfolio
 
 ---
