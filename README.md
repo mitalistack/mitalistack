@@ -60,15 +60,9 @@ I specialize in developing full-stack applications with clean architecture, effi
 
 ## 🚀 Featured Projects
 
-### 📄 Resume Analyzer 
+### 📄 Resume Analyzer – AI-Powered ATS Optimization Tool 
 
-A smart web application that analyzes resumes, calculates ATS score, and provides improvement suggestions.
-
-#### Features:
-- Resume upload & parsing
-- ATS score calculation
-- Keyword matching with job descriptions
-- Improvement suggestions
+An AI-powered Resume Analyzer that evaluates resumes, generates ATS scores, and provides smart improvement suggestions.
 
 #### Tech Stack 
 - React
