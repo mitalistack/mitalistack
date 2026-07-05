@@ -38,17 +38,6 @@ Built a responsive Movie Finder web application using HTML, Tailwind CSS, JavaSc
 
 ---
 
-## Current Focus
-
-- Advanced MERN Stack Development
-- Backend Development
-- REST API Integration
-- Authentication & Authorization
-- Database Optimization
-- Full Stack Project Architecture
-
----
-
 ## Education
 
 <p align="left">Bachelor of Technology (B.Tech) - Computer Science & Engineering</p>
